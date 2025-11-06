@@ -1,0 +1,11 @@
+node_id,direction,lane,chainage_m
+O00,outbound,2,0
+O01,outbound,2,50
+O02,outbound,2,100
+O03,outbound,2,150
+O04,outbound,2,200
+O05,outbound,2,250
+O06,outbound,2,300
+O07,outbound,2,350
+O08,outbound,2,400
+O09,outbound,2,450
