@@ -27,24 +27,6 @@ AI Detection → FastAPI Backend → React Dashboard → Smart Delineators (Ardu
 
 ---
 
-## Project Structure
-SmartDelineator/
-├── backend/
-│   ├── main.py
-│   ├── models.py
-│   ├── mapping.py
-│   ├── serial_gateway.py
-│   ├── topo/nodes.csv
-│   └── requirements.txt
-└── frontend/
-├── src/
-│   ├── App.tsx
-│   └── components/
-├── vite.config.ts
-└── package.json
-
----
-
 ## How to Run
 
 ### Backend
